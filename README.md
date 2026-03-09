@@ -24,7 +24,6 @@ Contar vocales en un texto (conteo individual por vocal)
 Ejercicio 5
 Solicita y valida nombre, edad y correo. Si algún dato es inválido, muestra un mensaje de error y vuelve a pedirlo. Al finalizar, muestra la lista de todos los usuarios registrados.
 Validaciones:
-
 Nombre: mínimo 3 caracteres
 Edad: entre 0 y 120
 Correo: debe contener @ y .com o edu.co
